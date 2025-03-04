@@ -1,4 +1,4 @@
-# Git Flow 
+### Git Flow 
 Là một quy trình làm việc (workflow) phổ biến được sử dụng trong quản lý mã nguồn với Git, giúp tổ chức và quản lý các nhánh trong dự án một cách có cấu trúc. Phù hợp cho các dự án có vòng đời phát triển phần mềm rõ ràng, chẳng hạn như phát hành sản phẩm theo phiên bản (release).
 # Các bước gitflow
 Bước 1: Tạo branch mới từ Develop (x).
