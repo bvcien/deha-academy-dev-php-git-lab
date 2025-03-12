@@ -10,7 +10,8 @@
 `Bước 7: Quay lại bước 2 nếu không được merge.`<br>
 
 # Workflow
-`Git workflow là một tập hợp các quy trình hoặc phương pháp được sử dụng để làm việc với Git, hệ thống quản lý mã nguồn phân tán. Git workflow giúp tổ chức cách mà nhóm phát triển làm việc trên một dự án, chia sẻ mã nguồn và quản lý các thay đổi trong quá trình phát triển phần mềm. Mục tiêu của Git workflow là tối ưu hóa quá trình hợp tác giữa các lập trình viên, giảm thiểu xung đột và duy trì mã nguồn ổn định.`
+`Git workflow là một tập hợp các quy trình hoặc phương pháp được sử dụng để làm việc với Git, hệ thống quản lý mã nguồn phân tán. Git workflow giúp tổ chức cách mà nhóm phát triển làm việc trên một dự án, chia sẻ 
+ mã nguồn và quản lý các thay đổi trong quá trình phát triển phần mềm. Mục tiêu của Git workflow là tối ưu hóa quá trình hợp tác giữa các lập trình viên, giảm thiểu xung đột và duy trì mã nguồn ổn định.`
 
 `Bước 1. Tạo nhánh mới (Create a new branch)`<br>
 `Bước 2. Thực hiện thay đổi và commit (Make changes and commit)`<br>
