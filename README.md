@@ -1,6 +1,7 @@
 # Git Flow 
 `Là một quy trình làm việc (workflow) phổ biến được sử dụng trong quản lý mã nguồn với Git, giúp tổ chức và quản lý các nhánh trong dự án một cách có cấu trúc. Phù hợp cho các dự án có vòng đời phát triển phần mềm rõ ràng, chẳng hạn như phát hành sản phẩm theo phiên bản (release).`
 # Các bước gitflow
+```
 `Bước 1: Tạo branch mới từ Develop (x).`<br>
 `Bước 2: Coding + commit.`<br>
 `Bước 3: Pull code từ origin Develop về nhánh x.`<br>
@@ -8,6 +9,7 @@
 `Bước 5: Push x lên origin x.`<br>
 `Bước 6: Tạo merge request.`<br>
 `Bước 7: Quay lại bước 2 nếu không được merge.`<br>
+```
 
 # Workflow
 `Git workflow là một tập hợp các quy trình hoặc phương pháp được sử dụng để làm việc với Git, hệ thống quản lý mã nguồn phân tán. Git workflow giúp tổ chức cách mà nhóm phát triển làm việc trên một dự án, chia sẻ 
